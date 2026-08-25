@@ -1,0 +1,6 @@
+{
+  "name": "الفكر الرقمي | RT-KSA Digital Solutions",
+  "description": "الموقع الرسمي لشركة الفكر الرقمي (RT-KSA) للحلول الرقمية وتطوير المواقع والتطبيقات والبنية التحتية والتسويق الإلكتروني في المملكة العربية السعودية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
